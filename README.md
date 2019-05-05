@@ -6,6 +6,10 @@ Example codes for the book:
 
 * Simo Särkkä and Arno Solin (2019). **Applied Stochastic Differential Equations**. Cambridge University Press. Cambridge, UK.
 
+The book can be ordered through [Cambridge University Press](https://www.cambridge.org/fi/academic/subjects/statistics-probability/applied-probability-and-stochastic-networks/applied-stochastic-differential-equations?format=PB) or, e.g., from  [Amazon](https://www.amazon.co.uk/Stochastic-Differential-Equations-Mathematical-Statistics/dp/1316649466).
+
+*With permission from the publisher, we are providing a PDF version of the book [here](https://users.aalto.fi/~asolin/sde-book/sde-book.pdf). This PDF version is made available for personal use. The copyright in all material rests with the authors (Simo Särkkä and Arno Solin). Commercial reproduction is prohibited, except as authorised by the author and publisher.*
+
 ## Summary
 
 The book *Applied Stochastic Differential Equations* gives a gentle introduction to stochastic differential equations (SDEs). The low learning curve only assumes prior knowledge of ordinary differential equations and basic concepts of statistic, together with understanding of linear algebra, vector calculus, and Bayesian inference. The book is mainly intended for advanced undergraduate and graduate students in applied mathematics, signal processing, control engineering, statistics, and computer science.
