@@ -10,4 +10,4 @@ The expression for P_0 does not hold in the general case (e.g., can be shown by 
 
 * Page 260 (Eq. 12.34)
 
-The power p should be D. Thank you Zheng Zhao for pointing this you.
+The power p should be D. Thank you Zheng Zhao for pointing this out.
