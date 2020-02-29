@@ -11,3 +11,7 @@ The expression for P_0 does not hold in the general case (e.g., can be shown by 
 * Page 260 (Eq. 12.34)
 
 The power p should be D. Thank you Zheng Zhao for pointing this out.
+
+* Page 70 (Eq. 5.49)
+
+The term m_u(v) should be m_u(t). Thank you Zheng Zhao for pointing this out.
