@@ -8,3 +8,6 @@ Missing minus sign in the first term on the right hand side (this error is also 
 
 The expression for P_0 does not hold in the general case (e.g., can be shown by the the Lyapunov equation FP + PF^T + LQL^T=0 not checking out). Thank you Vincent Adam for spotting this.
 
+* Page 260 (Eq. 12.34)
+
+The power p should be D. Thank you Zhao Zheng for pointing this you.
