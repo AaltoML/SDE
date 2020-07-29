@@ -15,3 +15,7 @@ The power p should be D. Thank you Zheng Zhao for pointing this out.
 * Page 70 (Eq. 5.49)
 
 The term m_u(v) should be m_u(t). Thank you Zheng Zhao for pointing this out.
+
+* Page 85 (Eq. 6.46)
+
+Instead of \Sigma(\Delta), we should have \Sigma(\Delta t). Thank you Zheng Zhao for pointing this out.
