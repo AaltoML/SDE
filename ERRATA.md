@@ -6,7 +6,7 @@ Missing minus sign in the first term on the right hand side (this error is also 
 
 * Page 265 (Alg. 12.10, Eq. 12.54)
 
-The expression for P_0 does not hold in the general case (e.g., can be shown by the the Lyapunov equation FP + PF^T + LQL^T=0 not checking out). Thank you Vincent Adam for spotting this.
+The expression for P_0 does not hold in the general case (e.g., can be shown by the the Lyapunov equation FP + PF^T + LQL^T=0 not checking out). Thank you Vincent Adam for spotting this. After some further checking it has turned out that in fact P_0 is correct, but in general L and Q should be determined by L Q L^T = L_1 Q_1 L_1^T * P_2 + P_1 * L_2 Q_2 L_2^T, where * is the Kronecker product.
 
 * Page 260 (Eq. 12.34)
 
